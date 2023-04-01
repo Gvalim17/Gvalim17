@@ -25,7 +25,7 @@ Sou estudante de programação. E apaixonado pelo mundo da tecnologia. Além dis
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gvalim17)](https://github.com/Gvalim17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gvalim17&layout=compact)](https://github.com/Gvalim17/github-readme-stats)
 
 
 
