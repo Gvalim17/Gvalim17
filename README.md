@@ -9,7 +9,6 @@ Sou estudante de programação. E apaixonado pelo mundo da tecnologia. Além dis
 
 <br/>
 
-![Valim GitHub stats](https://github-readme-stats.vercel.app/api?username=Gvalim17&show_icons=true&theme=dracula)
 
 ## Algumas Tecnologias que estou aprendendo! 📖
 
