@@ -10,7 +10,7 @@ Sou estudante de programação. E apaixonado pelo mundo da tecnologia. Além dis
 <br/>
 
 
-## Algumas Tecnologias que estou aprendendo! 📖
+## Algumas Tecnologias que tenho conhecimento! 📖
 
 <div style="display': inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
